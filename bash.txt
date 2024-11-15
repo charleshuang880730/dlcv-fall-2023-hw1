@@ -1,0 +1,3 @@
+bash hw1_1.sh hw1_data/p1_data/val_50 p1_pred.csv
+bash hw1_2.sh hw1_data/p2_data/office/val.csv hw1_data/p2_data/office/val p2_pred.csv
+bash hw1_3.sh hw1_data/p3_data/validation p3_output
